@@ -1,0 +1,57 @@
+2025-03-07 13:53:15 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:02:12 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:04:40 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:06:02 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:06:35 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:29:05 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:36:54 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:38:21 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:40:10 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:42:02 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 14:42:24 [31merror[39m: Erreur lors de la connexion à la base de données authentification par mot de passe �chou�e pour l'utilisateur  � postgres �
+2025-03-07 15:33:24 [31merror[39m: Erreur lors de la récupération de l'utilisateur admin No metadata for "User" was found.
+2025-03-07 15:33:24 [31merror[39m: Erreur lors de la connexion No metadata for "User" was found.
+2025-03-07 15:33:28 [31merror[39m: Erreur lors de la récupération de l'utilisateur admin No metadata for "User" was found.
+2025-03-07 15:33:28 [31merror[39m: Erreur lors de la connexion No metadata for "User" was found.
+2025-03-07 15:35:29 [31merror[39m: Erreur lors de la récupération de l'utilisateur admin No metadata for "User" was found.
+2025-03-07 15:35:29 [31merror[39m: Erreur lors de la connexion No metadata for "User" was found.
+2025-03-07 15:35:30 [31merror[39m: Erreur lors de la récupération de l'utilisateur admin No metadata for "User" was found.
+2025-03-07 15:35:30 [31merror[39m: Erreur lors de la connexion No metadata for "User" was found.
+2025-03-07 15:40:47 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 15:42:10 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 15:42:28 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 15:45:12 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 15:45:15 [31merror[39m: Erreur non gérée: Route non trouvée - /api/public/clients
+2025-03-07 15:48:29 [31merror[39m: Erreur non gérée: Route non trouvée - /api/public/clients
+2025-03-07 15:55:51 [31merror[39m: Erreur lors de la création d'un utilisateur null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 15:55:51 [31merror[39m: Erreur lors de l'inscription null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 16:12:16 [31merror[39m: Erreur lors de la création d'un utilisateur null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 16:12:16 [31merror[39m: Erreur lors de l'inscription null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 16:12:42 [31merror[39m: Erreur lors de la création d'un utilisateur null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 16:12:42 [31merror[39m: Erreur lors de l'inscription null value in column "fullname" of relation "users" violates not-null constraint
+2025-03-07 16:17:00 [31merror[39m: Erreur lors de la création d'un utilisateur duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:17:00 [31merror[39m: Erreur lors de l'inscription duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:17:04 [31merror[39m: Erreur lors de la création d'un utilisateur duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:17:04 [31merror[39m: Erreur lors de l'inscription duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:18:16 [31merror[39m: Erreur lors de la création d'un utilisateur duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:18:16 [31merror[39m: Erreur lors de l'inscription duplicate key value violates unique constraint "users_username_key"
+2025-03-07 16:19:27 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 16:22:40 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-07 16:23:09 [31merror[39m: Erreur d'authentification invalid token
+2025-03-07 16:23:14 [31merror[39m: Erreur d'authentification invalid token
+2025-03-07 16:26:23 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-21 11:05:21 [31merror[39m: Erreur lors du démarrage du serveur
+2025-03-21 11:06:23 [31merror[39m: Erreur d'authentification jwt expired
+2025-03-21 11:06:34 [31merror[39m: Erreur d'authentification jwt malformed
+2025-03-21 13:09:01 [31merror[39m: Erreur lors de la création d'un utilisateur duplicate key value violates unique constraint "users_username_key"
+2025-03-21 13:09:01 [31merror[39m: Erreur lors de l'inscription duplicate key value violates unique constraint "users_username_key"
+2025-03-21 15:35:07 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:40:10 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:46:57 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:51:48 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:53:34 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:53:43 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 15:53:48 [31merror[39m: Erreur lors de la suppression de l'événement 1 update or delete on table "evenement" violates foreign key constraint "seance_id_evenement_fkey" on table "seance"
+2025-03-21 15:53:48 [31merror[39m: Erreur lors de la suppression de l'événement 1 update or delete on table "evenement" violates foreign key constraint "seance_id_evenement_fkey" on table "seance"
+2025-03-21 16:19:54 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
+2025-03-21 16:33:53 [31merror[39m: Erreur non gérée: Route non trouvée - /api/seances/evenement/1
